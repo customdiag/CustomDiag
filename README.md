@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Javascript, Stencil-CLI
 
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=customdiag/Your_GitHub_Repository_Name)
 
 -->
